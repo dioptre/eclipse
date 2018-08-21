@@ -1,10 +1,8 @@
 eclipse.preferences.version=1
-repositories/file\:_home_a_Downloads/description=
 repositories/file\:_home_a_Downloads/enabled=true
 repositories/file\:_home_a_Downloads/isSystem=false
 repositories/file\:_home_a_Downloads/name=update site\: file\:/home/a/Downloads/
 repositories/file\:_home_a_Downloads/nickname=update site\: file\:/home/a/Downloads/
-repositories/file\:_home_a_Downloads/provider=
 repositories/file\:_home_a_Downloads/suffix=site.xml
 repositories/file\:_home_a_Downloads/type=org.eclipse.equinox.p2.updatesite.metadataRepository
 repositories/file\:_home_a_Downloads/uri=file\:/home/a/Downloads/

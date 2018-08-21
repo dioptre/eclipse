@@ -1,5 +1,5 @@
 MAX_RECENT_WORKSPACES=10
-RECENT_WORKSPACES=/home/a/eit\n/home/a/eclipse-workspace
+RECENT_WORKSPACES=/home/a/eit\n/home/a/firm\n/home/a/template\n/home/a/eclipse-workspace
 RECENT_WORKSPACES_PROTOCOL=3
 SHOW_RECENT_WORKSPACES=false
 SHOW_WORKSPACE_SELECTION_DIALOG=true
